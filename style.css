@@ -1,4 +1,5 @@
-  body {
+
+body {
       font-family: 'Inter', sans-serif;
     }
     
@@ -7,9 +8,7 @@
       font-weight: 500;
       margin: 0 10px;
     }
-    /* .nav-link.active, .nav-link:hover {
-      color: #119C59;
-    } */
+    
     #login {
       border: 2px solid #119C59;
       color: #119C59;
@@ -35,15 +34,4 @@
     }
 
  
-    /* .feature-icon {
-      font-size: 2rem;
-      color: #28a745;
-      margin-right: 10px;
-    }
-    .feature-box {
-      margin-bottom: 30px;
-    }
-    .highlight {
-      color: #28a745;
-      font-weight: 600;
-    } */
+   
