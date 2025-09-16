@@ -1,0 +1,49 @@
+  body {
+      font-family: 'Inter', sans-serif;
+    }
+    
+    .nav-link {
+      color: #333;
+      font-weight: 500;
+      margin: 0 10px;
+    }
+    /* .nav-link.active, .nav-link:hover {
+      color: #119C59;
+    } */
+    #login {
+      border: 2px solid #119C59;
+      color: #119C59;
+      border-radius: 50px;
+      padding: 6px 50px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      width: 100%;
+    }
+    #login:hover {
+      background-color: #119C59;
+      color: #fff;
+    }
+
+    #start{ 
+      color: white; 
+      background-color: #119C59;
+      border-radius: 50px;
+      border-radius: 50px;
+      font-weight: 600;
+      font-size: 0.9rem; 
+      width: 30%;
+    }
+
+ 
+    /* .feature-icon {
+      font-size: 2rem;
+      color: #28a745;
+      margin-right: 10px;
+    }
+    .feature-box {
+      margin-bottom: 30px;
+    }
+    .highlight {
+      color: #28a745;
+      font-weight: 600;
+    } */
